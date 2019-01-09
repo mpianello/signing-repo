@@ -1,12 +1,7 @@
 # signing-repo
 ## Martin Pianello
-## Nicolas Zabalo
+## Nico Zabalo
 ## Dany
-## Joaquin
-## Fernando
-## Nahuel v3
-## Joaquin v3
-## Joaquin v4
 ## Nico unverified
 ## NICO unverified 2
 

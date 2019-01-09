@@ -1,5 +1,5 @@
 
 # signing-repo
 ## Martin Pianello
-## Nicolas Zabalo
+## Nico Zabalo
 ## Dany
